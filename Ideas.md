@@ -16,3 +16,7 @@ Creating :
 	* Functions for contract
 
 
+
+Decided about the architecture and relation among the contracts.
+
+
