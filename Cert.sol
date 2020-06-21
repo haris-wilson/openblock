@@ -1,14 +1,15 @@
 pragma solidity >=0.6.0;
 
-contract CertificateStore {
-	enum State {not_issued, valid, revoked}
+contract Cert {
+	enum State {valid, invalid}
 
 	struct Hash {
 		State status;
 	}
 
 	address internal owner;
-	// key: hash, value: Batch/Cert
+
+	// key: hash, value: Cert
 	mapping(bytes32 => Hash) public hashes;
 
 	modifier only_owner() {
@@ -18,6 +19,7 @@ contract CertificateStore {
 		);
 		_;
 	}
+	
 
 	constructor() public {
 		owner = msg.sender;
