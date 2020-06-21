@@ -31,3 +31,4 @@ Able to create OpenBadges service, smart contract deploy and Node.js server for 
 The Matic Network proved very successful in providing the requirements for the proposed idea - low transaction fees, low block creation time etc.
 
 
+#### There was a problem encountered on recording video on one of systems and wasn't able to complete it.
