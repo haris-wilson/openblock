@@ -20,3 +20,13 @@ Creating :
 Decided about the architecture and relation among the contracts.
 
 
+21/06/20
+
+	* Created the OpenBadges Issuer
+	* Created Smart Contracts
+	* Tested on Matic 
+	
+	Encountered some problems in connection to network.
+	Taken more time to understand the workflow
+
+
