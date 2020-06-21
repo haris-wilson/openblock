@@ -1,5 +1,9 @@
 ## openblock
-### Open framework to add Open Badges Credentials to Ethereum through Matic Network.
+### Framework to add Open Badges credentials to Ethereum through Matic Network.
+
+* The Open Badges issuing and frontend are hosted on : https://openbadges-c7d08.web.app/modelissuer.html (must be imporved for the product we are developing)
+https://openbadges-c7d08.web.app/modeluser.html
+
 
 Dapp for decentralised OpenBadges issuing and verification.
 
